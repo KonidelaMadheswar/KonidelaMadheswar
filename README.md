@@ -1,430 +1,168 @@
-<!DOCTYPE html>
-<html lang="en">
-
-	<head>
-		<meta charset="utf-8">
-		<meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-		<title>Candida Noronha</title>
-		<meta content="" name="description">
-		<meta content="" name="keywords">
-
-		<!-- Favicons -->
-		<link href="assets/img/favicon.png" rel="icon">
-		<link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-		<!-- Google Fonts -->
-		<link
-			href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-			rel="stylesheet">
-
-		<!-- Vendor CSS Files -->
-		<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-		<link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-		<link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-		<link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-		<link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-		<!-- Template Main CSS File -->
-		<link href="assets/css/style.css" rel="stylesheet">
-
-
-	</head>
-
-	<body>
-		<div id="particles-js"></div>
-		<!-- ======= Header ======= -->
-		<header id="header" >
-			<div class="container"  >
-
-				<h1 ><a href="index.html">Candida Noronha</a></h1><br>
-
-				<h2>I'm a <span class='typing' style="color:#11dbcf;"></span> from Mumbai</h2>
-
-				<nav id="navbar" class="navbar">
-					<ul>
-						<li><a class="nav-link active" href="#header">Home</a></li>
-						<li><a class="nav-link" href="#about">About</a></li>
-						<li><a class="nav-link" href="#resume">Resume</a></li>
-						<li><a class="nav-link" href="#portfolio">Portfolio</a></li>
-						<li><a class="nav-link" href="#contact">Contact</a></li>
-					</ul>
-					<i class="bi bi-list mobile-nav-toggle"></i>
-				</nav><!-- .navbar -->
-
-				<div class="social-links">
-					<a href="mailto:konidelamadheswar@gmail.com"><i class="bi bi-envelope"></i> </a>
-					<a href="https://github.com/KonidelaMadheswar" class="github"><i class="bi bi-github"></i></a>
-					<a href="https://www.linkedin.com/in/madheswar-konidela-52b826219/" class="linkedin"><i
-							class="bi bi-linkedin"></i></a>
-					<a href="https://www.instagram.com/konidela._.madheswar._/" class="instagram"><i class="bi bi-instagram"></i></a>
-				</div>
-
-			</div>
-		</header><!-- End Header -->
-
-		<!-- ======= About Section ======= -->
-		<section id="about" class="about">
-
-			<!-- ======= About Me ======= -->
-			<div class="about-me container">
-
-				<div class="section-title">
-					<h2>About</h2>
-					<p>Learn more about me</p>
-				</div>
-
-				<div class="row">
-					<div class="col-lg-4" data-aos="fade-right">
-						<img src="assets/img/" class="img-fluid" alt="">
-					</div>
-					<div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-						<br>
-						<h3>Data Analyst, Web Developer &amp; Graphic Designer</h3>
-						<!--p class="fst-italic">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-					magna aliqua.
-				</p-->
-						<br />
-						<div class="row">
-							<br>
-							<div class="col-lg-6">
-								<ul>
-									<li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>18 April, 2002</span></li>
-									<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span></span></li>
-									<li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>(+91) 8369565880</span></li>
-									<li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Mumbai, India</span></li>
-								</ul>
-							</div>
-							<div class="col-lg-6">
-								<ul>
-
-									<li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
-									<li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>B.Tech in Computer Science and Engineering</span>
-									</li>
-									<li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
-										<span>konidelamadheswar@gmail.com</span>
-									</li>
-									<li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
-								</ul>
-							</div>
-						</div>
-						<p align="justify">
-							<br>
-							Ambitious student who enjoys working in a challenging environment that encourages continuous learning and
-							creativity providing exposure to new ideas and thereby utilizing my skill and knowledge to the best of my
-							abilities.Data Science enthusiast looking to thrive in high-stakes digital intelligence processing
-							environments.
-						</p>
-					</div>
-				</div>
-
-			</div><!-- End About Me -->
-
-			<!-- ======= Counts ======= -->
-			<!-- <div class="counts container">
-			<div class="row">
-				<div class="col-lg-3 col-md-6">
-					<div class="count-box">
-						<i class="bi bi-emoji-smile"></i>
-						<span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-						<p>Happy Clients</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 mt-5 mt-md-0">
-					<div class="count-box">
-						<i class="bi bi-journal-richtext"></i>
-						<span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-						<p>Projects</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-					<div class="count-box">
-						<i class="bi bi-headset"></i>
-						<span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-						<p>Hours Of Support</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-					<div class="count-box">
-						<i class="bi bi-award"></i>
-						<span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1" class="purecounter"></span>
-						<p>Awards</p>
-					</div>
-				</div>
-			</div>
-		</div>End Counts -->
-
-			<!-- ======= Skills  ======= -->
-			<div class="skills container">
-
-				<div class="section-title">
-					<h2>Skills</h2>
-				</div>
-
-				<div class="row skills-content">
-
-					<div class="col-lg-6">
-
-						<div class="progress">
-							<span class="skill"> Project Management <i class="val">90%</i></span>
-							<div class="progress-bar-wrap">
-								<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-								</div>
-							</div>
-						</div>
-
-						<div class="progress">
-							<span class="skill">Java<i class="val">75%</i></span>
-							<div class="progress-bar-wrap">
-								<div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-								</div>
-							</div>
-						</div>
-
-					</div>
-
-						<div class="progress">
-							<span class="skill">Python<i class="val">75%</i></span>
-							<div class="progress-bar-wrap">
-								<div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-								</div>
-							</div>
-						</div>
-
-					</div>
-
-				</div>
-
-			</div><!-- End Skills -->
-
-			<!-- ======= Interests ======= -->
-			<div class="interests container">
-
-				<div class="section-title">
-					<h2>Interests</h2>
-				</div>
-
-				<div class="row">
-					<div class="col-lg-3 col-md-4">
-						<div class="icon-box">
-							<i class="ri-global-line" style="color: #ffbb2c;"></i>
-							<h3>Software Development</h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-						<div class="icon-box">
-							<i class="ri-database-2-line" style="color: #5578ff;"></i>
-							<h3>Machine Learning</h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-4 mt-4 mt-md-0">
-						<div class="icon-box">
-							<i class="ri-camera-3-line" style="color: #e80368;"></i>
-							<h3>Computer Vision</h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
-						<div class="icon-box">
-							<i class="ri-english-input" style="color: #1c7d32;"></i>
-							<h3>Natural Language Processing</h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-4 mt-4">
-						<div class="icon-box">
-							<i class="ri-code-s-slash-fill" style="color: #28a745;"></i>
-							<h3>Software Engineering</h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-4 mt-4">
-						<div class="icon-box">
-							<i class="ri-bar-chart-box-line" style="color: #f1081f;"></i>
-							<h3>Visualization</h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-4 mt-4">
-						<div class="icon-box">
-							<i class="ri-file-list-3-line" style="color: #47aeff;"></i>
-							<h3>Algorithms</h3>
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-4 mt-4">
-						<div class="icon-box">
-							<i class="ri-image-line" style="color: #ffc107;"></i>
-							<h3>Image Processing</h3>
-						</div>
-					</div>
-				</div>
-
-
-			</div><!-- End Interests -->
-
-
-
-
-		</section><!-- End About Section -->
-
-		<!-- ======= Resume Section ======= -->
-		<section id="resume" class="resume">
-			<div class="resume container">
-
-				<div class="section-title">
-					<h2>Resume</h2>
-					<p>View My Resume</p>
-				</div>
-
-				<div class="row">
-					<div class="col-lg-6">
-						<h3 class="resume-title">Summary</h3>
-						<div class="resume-item pb-0">
-							<h4>Konidela Madheswar</h4>
-							<p><em>I'm a Computer Engineering Student with holistic knowledge of software development and design.
-									Highly developed research qualitative and analytical skills with a strong capacity to conduct
-									independent research.</em></p>
-							<p>
-							<ul>
-								<li>Kurnool, India</li>
-								<li>(+91) 9154432303</li>
-								<li>konidelamadheswargmail.com</li>
-							</ul>
-							</p>
-						</div>
-
-						<h3 class="resume-title">Education</h3>
-						<div class="resume-item">
-							<h4>Bachelor Of Technology (Computer Science and Engineering)</h4>
-							<h5>2020 - 2024 </h5>
-							<p><em>G Pulla Reddy Engineering College, IN</em></p>
-							<p> Performance: 8.72 CGPA</p>
-						</div>
-						<div class="resume-item">
-							<h4>Higher Secondary School</h4>
-							<h5>2018 - 2020</h5>
-							<p><em>Andhra Pradesh State Board, IN </em></p>
-							<p> Performance: 93%</p>
-						</div>
-						<div class="resume-item">
-							<h4>Secondary School</h4>
-							<h5>2005 - 2018</h5>
-							<p><em>Central Board Of Secondary Education, IN </em></p>
-							<p> Performance: 90%</p>
-						</div>
-
-						</div>
-					</div>
-				</div>
-
-			</div>
-
-
-
-
-		</section><!-- End Resume Section -->
-
-
-		<!-- ======= Contact Section ======= -->
-		<section id="contact" class="contact">
-			<div class="container">
-
-				<div class="section-title">
-					<h2>Contact</h2>
-					<p>Contact Me</p>
-				</div>
-
-				<div class="row mt-2">
-
-					<div class="col-md-6 d-flex align-items-stretch">
-						<div class="info-box">
-							<i class="bx bx-map"></i>
-							<h3>My Address</h3>
-							<p>Santacruz (E), Mumbai, India</p>
-						</div>
-					</div>
-
-					<div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
-						<div class="info-box">
-							<i class="bx bx-share-alt"></i>
-							<h3>Social Profiles</h3>
-							<div class="social-links">
-								<a href="https://github.com/KonidelaMadheswar" class="github"><i class="bi bi-github"></i></a>
-								<a href="https://www.instagram.com/konidela._.madheswar._/" class="instagram"><i class="bi bi-instagram"></i></a>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-6 mt-4 d-flex align-items-stretch">
-						<div class="info-box">
-							<i class="bx bx-envelope"></i>
-							<h3>Email Me</h3>
-							<p>konidelamadheswar@gmail.com</p>
-						</div>
-					</div>
-					<div class="col-md-6 mt-4 d-flex align-items-stretch">
-						<div class="info-box">
-							<i class="bx bx-phone-call"></i>
-							<h3>Call Me</h3>
-							<p>(+91) 9154432303</p>
-						</div>
-					</div>
-				</div>
-
-
-
-					<div class="row">
-						<div class="col-md-6 form-group">
-							<input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-						</div>
-						<div class="col-md-6 form-group mt-3 mt-md-0">
-							<input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-						</div>
-					</div>
-					<div class="form-group mt-3">
-						<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-					</div>
-					<div class="form-group mt-3">
-						<textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-					</div>
-					<div class="my-3">
-						<div class="loading">Loading</div>
-						<div class="error-message"></div>
-						<div class="sent-message">Your message has been sent. Thank you!</div>
-					</div>
-					<div class="text-center"><button type="submit" id="btn-submit"><b>Send Message</b></button></div>
-
-					<input type="hidden" name="_captcha" value="false">
-					<input type="hidden" name="_next" value="https://github.com/KonidelaMadheswar">
-				</form>
-
-
-			</div>
-		</section><!-- End Contact Section -->
-
-		<!-- Vendor JS Files -->
-		<script src="assets/js/particles.js"></script>
-		<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-		<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-		<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-		<!--script src="assets/vendor/php-email-form/validate.js"></script-->
-		<script src="assets/vendor/purecounter/purecounter.js"></script>
-		<script src="./assets/vendor/swiper/swiper-bundle.min.js"></script>
-		<script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-		<script src="assets/vendor/typed.js/typed.min.js"></script>
-		<script type="text/javascript">
-			var typed = new Typed('.typing', {
-				strings: ['Web Developer','Data Analyst', 'Graphic Designer', 'Freelancer', 'Photographer'],
-				loop: true,
-				typeSpeed: 70,
-				backSpeed: 55
-			});
-		</script>
-		<script src="assets/js/app.js"></script>
-		
-
-
-		<!-- Template Main JS File -->
-		<script src="assets/js/main.js"></script>
+<h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+</p>
+<hr/>
+<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Candida's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
+
+## 🔥 Streak Stats
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p>
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
+&emsp; 
+</p>
+
+### 👉 Frontend Development
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
+&emsp; 
+</p>
+
+### 👉 Databases & Cloud Hosting
+
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+  &emsp;
+    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
+ &emsp; 
+</p>
+  
+### 👉Graphic Designing
+<p align="left">
+  &emsp;  
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flate&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+&emsp; 
+ </p>
+
+### 👉 Software & Tools
+
+<p>
+  &emsp;
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+ &emsp; 
+</p>
+
+<br/>
+
+## 📊 Github Stats (Expand to View)
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
-	</body>
+</p>
 
-</html>
+<!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
