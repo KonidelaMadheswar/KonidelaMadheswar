@@ -22,7 +22,7 @@
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KonidelaMadheswar&show_icons=true&theme=radical" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KonidelaMadheswar&theme=radical" />
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=KonidelaMadheswar&theme=radical&count_private=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=KonidelaMadheswar&theme=redical&count_private=true">
 <p align="center">
 <p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="1000" /> </p>
 ## 🙋‍♀️ Let's Connect
