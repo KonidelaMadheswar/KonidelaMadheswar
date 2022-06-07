@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I am a Student at G. Pulla Reddy Engineering College in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p>&nbsp;<img  src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="500" height="300">
+<p>&nbsp;<img  src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="800" height="600">
 
 ## 🔥 Streak Stats
 
