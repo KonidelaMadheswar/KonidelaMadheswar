@@ -19,8 +19,8 @@
 
 ## 📊 Github Stats
 <p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KonidelaMadheswar&show_icons=true&theme=radical" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KonidelaMadheswar&theme=radical" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KonidelaMadheswar&show_icons=true&theme=Celestial" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KonidelaMadheswar&theme=Celestial" />
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=KonidelaMadheswar&theme=redical&count_private=true">
 <p align="center">
