@@ -16,22 +16,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KonidelaMadheswar&theme=algolia" alt="candida18" /></p>
-
 
 ## 📊 Github Stats
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/KonidelaMadheswar"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KonidelaMadheswar&custom_title=Konidela%20Madheswar's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
+<p align="center">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KonidelaMadheswar&show_icons=true&theme=radical" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KonidelaMadheswar&theme=radical" />
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=bharani-bunny&theme=redical&count_private=true">
+<p align="center">
+<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="1000" /> </p>
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
