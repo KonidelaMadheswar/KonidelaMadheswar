@@ -20,7 +20,7 @@
 ## 📊 Github Stats
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KonidelaMadheswar&show_icons=true&theme=algolia" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KonidelaMadheswar&theme=algolia />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KonidelaMadheswar&theme=algolia" />
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=KonidelaMadheswar&theme=algolia&count_private=true">
 <p align="center">
