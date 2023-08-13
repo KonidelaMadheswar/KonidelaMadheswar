@@ -7,9 +7,9 @@
 <br>
 <p align="centre"><img  src="https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg" width="500" height="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KonidelaMadheswar&label=Profile%20views&color=0e75b6&style=flat" alt="KonidelaMadheswar" /> </p>
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **DATA SCIENCE**
 
-- 💬 Ask me about **C, Java, SQL**
+- 💬 Ask me about **C, Java, SQL, Python**
 
 ## 🛠️ My Skills
 
