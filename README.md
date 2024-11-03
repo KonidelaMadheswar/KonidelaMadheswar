@@ -3,13 +3,12 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Student at G. Pulla Reddy Engineering College in Computer Science and Engineering. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a G. Pulla Reddy Engineering College student in Computer Science and Engineering. I like to Code, Design, Innovate, and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and spreading knowledge and positivity.</h4>
 <br>
 <p align="centre"><img  src="https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg" width="500" height="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KonidelaMadheswar&label=Profile%20views&color=0e75b6&style=flat" alt="KonidelaMadheswar" /> </p>
 - 🌱 I’m currently learning **DATA SCIENCE**
 
-- 💬 Ask me about **C, Java, SQL, Python**
 
 ## 🛠️ My Skills
 
